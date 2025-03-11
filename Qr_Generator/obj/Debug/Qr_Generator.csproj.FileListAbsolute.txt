@@ -1,0 +1,212 @@
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.exe.config
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.exe
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\ReaLTaiizor.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Buffers.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Memory.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.ValueTuple.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\zxing.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\zxing.presentation.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\ReaLTaiizor.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Buffers.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Memory.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\System.ValueTuple.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\zxing.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\zxing.presentation.xml
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.AssemblyReference.cache
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.Form1.resources
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.Properties.Resources.resources
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.GenerateResource.cache
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Gener.4674D4A9.Up2Date
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.exe
+C:\Users\Vinoth Kumar\source\repos\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.exe.config
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.exe
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\ReaLTaiizor.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Buffers.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Memory.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.ValueTuple.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\zxing.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\zxing.presentation.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\ReaLTaiizor.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Buffers.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Memory.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.ValueTuple.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\zxing.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\zxing.presentation.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.AssemblyReference.cache
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.Form1.resources
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.Properties.Resources.resources
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.GenerateResource.cache
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.CoreCompileInputs.cache
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Gener.4674D4A9.Up2Date
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.exe
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Vinoth Kumar\OneDrive - SOLIDPRO ENGINEERING SUPPORT PVT LTD\source\Qr_Generator\Qr_Generator\bin\Debug\System.Drawing.Common.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.exe.config
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.exe
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Qr_Generator.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.Interfaces.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.System.Drawing.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Options.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Snippets.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\ReaLTaiizor.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Buffers.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Drawing.Common.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Memory.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Numerics.Vectors.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.ValueTuple.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\zxing.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\zxing.presentation.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\EPPlus.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Options.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Charting.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Quality.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.Snippets.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.System.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\PdfSharp.WPFonts.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\ReaLTaiizor.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Buffers.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Drawing.Common.pdb
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Drawing.Common.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Memory.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Numerics.Vectors.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\System.ValueTuple.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\zxing.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\zxing.presentation.xml
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\de\PdfSharp.resources.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.AssemblyReference.cache
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.Form1.resources
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.Properties.Resources.resources
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.GenerateResource.cache
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.csproj.CoreCompileInputs.cache
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Gener.4674D4A9.Up2Date
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.exe
+D:\QRGenerator\Qr_Generator 2\Qr_Generator\Qr_Generator\obj\Debug\Qr_Generator.pdb
